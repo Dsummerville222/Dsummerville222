@@ -89,9 +89,10 @@ Hi there! I'm a tech newbie passionate about diving deeper into the world of tec
 
 ## 🛰️ **Currently Exploring**
  - 🖥️ **Freshdesk**
-    - ![freshdesk](https://github.com/user-attachments/assets/48d6764e-e940-4c00-9126-4d167ac4b37e)
+   - ![Freshdesk](https://github.com/user-attachments/assets/48d6764e-e940-4c00-9126-4d167ac4b37e)
 
-
+ - 💻🖱️🔗 **Chrome Remote Desktop**
+   - ![Chrome Remote Desktop](https://github.com/user-attachments/assets/f04c6e2c-1b30-4200-8635-903b180b8f45)  
 ---
 
 ## 🎨 **My GitHub Stats**
