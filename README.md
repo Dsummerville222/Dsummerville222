@@ -53,7 +53,7 @@ Hi there! I'm a tech newbie passionate about diving deeper into the world of tec
     - ![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-%23000000?logo=linux&logoColor=white)  
     - ![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-%234EA94B?logo=wifi&logoColor=white)  
     - ![Hashcat](https://img.shields.io/badge/Hashcat-%23181818?logo=hashnode&logoColor=white)
-    - [![Burp Suite](https://img.shields.io/badge/Tool-Burp%20Suite-orange?logo=burp-suite&logoColor=white)](https://portswigger.net/burp)
+    - [![Burp Suite](https://img.shields.io/badge/Burp-%20Suite-orange?logo=burp-suite&logoColor=white)](https://portswigger.net/burp)
  
 
 
