@@ -92,10 +92,8 @@ Hi there! I'm a tech newbie passionate about diving deeper into the world of tec
 
 ## 🛰️ **Currently Exploring**
  - 🖥️ **Freshdesk**
-   - ![Freshdesk](https://github.com/user-attachments/assets/48d6764e-e940-4c00-9126-4d167ac4b37e)
-
- - 💻🖱️🔗 **Chrome Remote Desktop**
-   - ![Chrome Remote Desktop](https://github.com/user-attachments/assets/f04c6e2c-1b30-4200-8635-903b180b8f45)  
+   - ![Freshdesk](https://github.com/user-attachments/assets/48d6764e-e940-4c00-9126-4d167ac4b37
+  
 ---
 
 ## 🎨 **My GitHub Stats**
@@ -127,7 +125,20 @@ Overview: Deployed Damn Vulnerable Web Application (DVWA) to practice exploiting
 
 Skills Used: Web vulnerability assessment, Manual exploitation (XSS, SQLi, CSRF, etc.), Proxy configuration, HTTP traffic analysis, Application security hardening.
 
-🔗 [View Assignment](https://drive.google.com/file/d/1hb7r77n92MvP0A4DIpfQ7E0u5JZtK4-w/view?usp=sharing)
+🔗 [View Assignment](https://drive.google.com/file/d/1yvm3ZlUIJVg82duW-4eRORKXw25B9Vu0/view?usp=sharing)
+
+
+---
+### 🔎 Nmap Network Scanning & Exploitation Prep
+Overview: Used Nmap (Network Mapper) to perform network discovery, port scanning, service enumeration, and OS detection. Leveraged scan results to identify potential vulnerabilities and target systems for exploitation. 
+
+Skills Used: Host discovery, Port scanning (TCP/UDP), Service and version enumeration, Target identification, Exploitation planning.
+
+🔗 [View Assignment](https://drive.google.com/file/d/1eQAO8enTqM0kuYVvS8mBs-a3oSV2IfcK/view?usp=sharing)
+
+
+
+
 
 
 ---
