@@ -123,7 +123,7 @@ Check out my projects for:
 ### 🧪 **DVWA & Burp Suite Web Application Security Testing**
 Overview: Deployed Damn Vulnerable Web Application (DVWA) to practice exploiting common web vulnerabilities in a controlled environment. Utilized Burp Suite to intercept, analyze, and manipulate HTTP requests and responses for security testing and manual vulnerability exploitation.
 
-Skills Used: Web vulnerability assessment, Manual exploitation (XSS, SQLi, CSRF, etc.), Proxy configuration, HTTP traffic analysis, Application security hardening.
+Skills Used: Web vulnerability assessment, Manual exploitation (Uploads, Brute Force, & CSRF), Proxy configuration, HTTP traffic analysis, Application security hardening.
 
 🔗 [View Assignment](https://drive.google.com/file/d/1yvm3ZlUIJVg82duW-4eRORKXw25B9Vu0/view?usp=sharing)
 
