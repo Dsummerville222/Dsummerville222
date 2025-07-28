@@ -99,7 +99,6 @@ Hi there! I'm a tech newbie passionate about diving deeper into the world of tec
 ## 🎨 **My GitHub Stats**
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dsummerville222&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dsummerville222&theme=tokyonight" alt="GitHub Streak Stats" height="150" />
 </div>
 
 ---
