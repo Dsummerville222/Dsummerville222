@@ -107,7 +107,7 @@ Hi there! I'm a tech newbie passionate about diving deeper into the world of tec
 ## 💡 **Projects & Assignments**
 Check out my projects for:  
 
-### 📋 **Freshdesk Peronal Project**  
+### 📋 **Freshdesk Personal Project**  
 - **Overview**: Developed and implemented a customized ticketing system using Freshdesk to streamline customer support and improve response times.  
 - **Skills Used**: Ticketing systems, Custom report templates, Troubleshooting.   
   
