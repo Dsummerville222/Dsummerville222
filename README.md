@@ -92,7 +92,8 @@ Hi there! I'm a tech newbie passionate about diving deeper into the world of tec
 
 ## 🛰️ **Currently Exploring**
  - 🖥️ **Freshdesk**
-   - ![Freshdesk]<img src= "https://github.com/user-attachments/assets/48d6764e-e940-4c00-9126-4d167ac4b37"/>
+  - ![Freshdesk](https://github.com/user-attachments/assets/48d6764e-e940-4c00-9126-4d167ac4b37)
+
   
 ---
 
