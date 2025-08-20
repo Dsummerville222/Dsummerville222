@@ -91,8 +91,8 @@ Hi there! I'm a tech newbie passionate about diving deeper into the world of tec
 ---
 
 ## 🛰️ **Currently Exploring**
- - 🖥️ **Freshdesk**
-  - ![Freshdesk](https://developers.freshworks.com/tutorials/codelabs/freshdesk-basics/img/5dac5f879854348a.gif)
+ - 🖥️ **ServiceNow**
+  - ![ServiceNow](https://bigid.com/wp-content/uploads/2022/09/BigID-ServiceNow.gif)
 
   
 ---
