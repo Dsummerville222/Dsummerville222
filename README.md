@@ -92,7 +92,7 @@ Hi there! I'm a tech newbie passionate about diving deeper into the world of tec
 
 ## 🛰️ **Currently Exploring**
  - 🖥️ **ServiceNow**
-  - ![ServiceNow](https://bigid.com/wp-content/uploads/2022/09/BigID-ServiceNow.gif)
+  - ![ServiceNow](https://mir-s3-cdn-cf.behance.net/project_modules/1400/2fee62136633175.62baf88b88c65.gif)
 
   
 ---
