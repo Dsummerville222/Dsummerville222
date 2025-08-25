@@ -97,7 +97,6 @@ Hi there! I'm a tech newbie passionate about diving deeper into the world of tec
 
 ---
 
-## 🛰️ **Currently Exploring**
  - 🖥️ **Mac Troubleshooting Skills**
   - ![MacOs](https://media.idownloadblog.com/wp-content/uploads/2016/11/Open-GIF-space-bar.gif)
 
