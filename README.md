@@ -94,7 +94,13 @@ Hi there! I'm a tech newbie passionate about diving deeper into the world of tec
  - 🖥️ **ServiceNow**
   - ![ServiceNow](https://mir-s3-cdn-cf.behance.net/project_modules/1400/2fee62136633175.62baf88b88c65.gif)
 
-  
+
+---
+
+## 🛰️ **Currently Exploring**
+ - 🖥️ **Mac Troubleshooting Skills**
+  - ![MacOs](https://media.idownloadblog.com/wp-content/uploads/2016/11/Open-GIF-space-bar.gif)
+
 ---
 
 ## 🎨 **My GitHub Stats**
