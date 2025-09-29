@@ -144,12 +144,14 @@ Other tools learned:
 
 - 🪟 **Windows Quick Assistant — Triage & Troubleshooting**
 Overview: Fast-response toolkit for Windows troubleshooting: collects system info, event logs, network status, and performs quick remediation steps to speed incident resolution.
+
 Skills Used: System info and identification, Event Log analysis, Network troubleshooting, Process & service diagnosis, Security checks.
 
 
 - 🌐 **ServiceNow — ITSM & Workflow Automation**
-**Overview:** Utilized ServiceNow for IT service management, incident, problem, and change management. Automated workflows, managed tickets, and monitored system performance to improve IT operations.
-**Skills Used:** Incident & problem management, Workflow automation, Ticket tracking, Reporting & dashboards, CMDB management, Integration with IT systems.
+Overview: Utilized ServiceNow for IT service management, incident, problem, and change management. Automated workflows, managed tickets, and monitored system performance to improve IT operations.
+
+Skills Used: Incident & problem management, Workflow automation, Ticket tracking, Reporting & dashboards, CMDB management, Integration with IT systems.
 
 
 ---
