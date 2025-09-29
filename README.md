@@ -93,7 +93,7 @@ Hi there! I'm a tech newbie passionate about diving deeper into the world of tec
 ## 🛰️ **Currently Exploring**
 
 - 🖥️ **Active Directory**
-  - ![AD GIF]([https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFtvStrq7sRawBf3ZhaHZaVEAYGI6q1RlzgDo8KGH6Jq76-oVsWKl_gAdbOLCu6M0NFL7HKxW2eik5RK-rcNz6kunwEARjGAihA1w2HNUND8TFcyrwTu0ARf0q_NerZuPD1CFk3B4z70SQa-RXI257Dx5SvNsV0N6khmr7SafMVuLPOM5Xe_7gO3PX/s2000/1947-GDU-Google-Takeout-blogsize%20(1).gif](https://miro.medium.com/v2/resize:fit:1400/1*N_D7DT6sQ1PqBerAP0blHw.gif))
+  - ![AD GIF](https://miro.medium.com/v2/resize:fit:1400/1*N_D7DT6sQ1PqBerAP0blHw.gif)
 
 
 
@@ -117,6 +117,7 @@ Check out my projects and assignments for:
 -**Overview**: Deployed Damn Vulnerable Web Application (DVWA) to practice exploiting common web vulnerabilities in a controlled environment. Utilized Burp Suite to intercept, analyze, and manipulate HTTP requests and responses for security testing and manual vulnerability exploitation.
 -**Skills Used**: Web vulnerability assessment, Manual exploitation (Uploads, Brute Force, & CSRF), Proxy configuration, HTTP traffic analysis, Application security hardening.
 -🔗 [View Assignment](https://drive.google.com/file/d/1Xvk3VRQllNe0sqPGnitnnhzQplxuk8vj/view?usp=sharing)
+
 ---
 ### 🔎 Nmap Network Scanning & Exploitation Prep
 -**Overview**: Used Nmap (Network Mapper) to perform network discovery, port scanning, service enumeration, and OS detection. Leveraged scan results to identify potential vulnerabilities and target systems for exploitation. 
@@ -139,13 +140,13 @@ Other tools learned:
 
 ---
 ### 🌐 **ServiceNow — ITSM & Workflow Automation**
--***Overview**: Utilized ServiceNow for IT service management, incident, problem, and change management. Automated workflows, managed tickets, and monitored system performance to improve IT operations.
--***Skills Used**: Incident & problem management, Workflow automation, Ticket tracking, Reporting & dashboards, CMDB management, Integration with IT systems.
+- ***Overview**: Utilized ServiceNow for IT service management, incident, problem, and change management. Automated workflows, managed tickets, and monitored system performance to improve IT operations.
+- ***Skills Used**: Incident & problem management, Workflow automation, Ticket tracking, Reporting & dashboards, CMDB management, Integration with IT systems.
 
 ---
 ### 🪟 **Windows Quick Assistant — Triage & Troubleshooting**
--**Overview**: Fast-response toolkit for Windows troubleshooting: collects system info, event logs, network status, and performs quick remediation steps to speed incident resolution.
--**Skills Used**: System info and identification, Event Log analysis, Network troubleshooting, Process & service diagnosis, Security checks.
+- **Overview**: Fast-response toolkit for Windows troubleshooting: collects system info, event logs, network status, and performs quick remediation steps to speed incident resolution.
+- **Skills Used**: System info and identification, Event Log analysis, Network troubleshooting, Process & service diagnosis, Security checks.
 
 
  
