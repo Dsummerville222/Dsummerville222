@@ -114,15 +114,15 @@ Hi there! I'm a tech newbie passionate about diving deeper into the world of tec
 Check out my projects and assignments for:  
 
 ### 🧪 **DVWA & Burp Suite Web Application Security Testing**
--**Overview**: Deployed Damn Vulnerable Web Application (DVWA) to practice exploiting common web vulnerabilities in a controlled environment. Utilized Burp Suite to intercept, analyze, and manipulate HTTP requests and responses for security testing and manual vulnerability exploitation.
--**Skills Used**: Web vulnerability assessment, Manual exploitation (Uploads, Brute Force, & CSRF), Proxy configuration, HTTP traffic analysis, Application security hardening.
--🔗 [View Assignment](https://drive.google.com/file/d/1Xvk3VRQllNe0sqPGnitnnhzQplxuk8vj/view?usp=sharing)
+- **Overview**: Deployed Damn Vulnerable Web Application (DVWA) to practice exploiting common web vulnerabilities in a controlled environment. Utilized Burp Suite to intercept, analyze, and manipulate HTTP requests and responses for security testing and manual vulnerability exploitation.
+- **Skills Used**: Web vulnerability assessment, Manual exploitation (Uploads, Brute Force, & CSRF), Proxy configuration, HTTP traffic analysis, Application security hardening.
+- 🔗 [View Assignment](https://drive.google.com/file/d/1Xvk3VRQllNe0sqPGnitnnhzQplxuk8vj/view?usp=sharing)
 
 ---
 ### 🔎 Nmap Network Scanning & Exploitation Prep
--**Overview**: Used Nmap (Network Mapper) to perform network discovery, port scanning, service enumeration, and OS detection. Leveraged scan results to identify potential vulnerabilities and target systems for exploitation. 
--**Skills Used**: Host discovery, Port scanning (TCP/UDP), Service and version enumeration, Target identification, Exploitation planning.
--🔗 [View Assignment](https://drive.google.com/file/d/1AUw8wwtW7TpNVnO1fGODDT7kZs7QYHxf/view?usp=sharing)
+- **Overview**: Used Nmap (Network Mapper) to perform network discovery, port scanning, service enumeration, and OS detection. Leveraged scan results to identify potential vulnerabilities and target systems for exploitation. 
+- **Skills Used**: Host discovery, Port scanning (TCP/UDP), Service and version enumeration, Target identification, Exploitation planning.
+- 🔗 [View Assignment](https://drive.google.com/file/d/1AUw8wwtW7TpNVnO1fGODDT7kZs7QYHxf/view?usp=sharing)
 
 ---
 ### 🛡️ **Suricata Network Intrusion Detection & Evebox Alert Management**  
