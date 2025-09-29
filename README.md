@@ -140,8 +140,8 @@ Other tools learned:
 
 ---
 ### 🌐 **ServiceNow — ITSM & Workflow Automation**
-- ***Overview**: Utilized ServiceNow for IT service management, incident, problem, and change management. Automated workflows, managed tickets, and monitored system performance to improve IT operations.
-- ***Skills Used**: Incident & problem management, Workflow automation, Ticket tracking, Reporting & dashboards, CMDB management, Integration with IT systems.
+- **Overview**: Utilized ServiceNow for IT service management, incident, problem, and change management. Automated workflows, managed tickets, and monitored system performance to improve IT operations.
+- **Skills Used**: Incident & problem management, Workflow automation, Ticket tracking, Reporting & dashboards, CMDB management, Integration with IT systems.
 
 ---
 ### 🪟 **Windows Quick Assistant — Triage & Troubleshooting**
