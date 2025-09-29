@@ -91,14 +91,11 @@ Hi there! I'm a tech newbie passionate about diving deeper into the world of tec
 ---
 
 ## 🛰️ **Currently Exploring**
- - 🖥️ **ServiceNow**
-  - ![ServiceNow](https://mir-s3-cdn-cf.behance.net/project_modules/1400/2fee62136633175.62baf88b88c65.gif)
 
 
----
+ - 🖥️ **Google Workspace**
+  - ![Google Workspace GIF](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFtvStrq7sRawBf3ZhaHZaVEAYGI6q1RlzgDo8KGH6Jq76-oVsWKl_gAdbOLCu6M0NFL7HKxW2eik5RK-rcNz6kunwEARjGAihA1w2HNUND8TFcyrwTu0ARf0q_NerZuPD1CFk3B4z70SQa-RXI257Dx5SvNsV0N6khmr7SafMVuLPOM5Xe_7gO3PX/s2000/1947-GDU-Google-Takeout-blogsize%20(1).gif)
 
- - 🖥️ **Mac Troubleshooting Skills**
-  - ![MacOs](https://media.idownloadblog.com/wp-content/uploads/2016/11/Open-GIF-space-bar.gif)
 
 ---
 
@@ -109,8 +106,8 @@ Hi there! I'm a tech newbie passionate about diving deeper into the world of tec
 
 ---
 
-## 💡 **Projects & Assignments**
-Check out my projects for:  
+## 💡 **Projects, Assignments, & Other Learned Tools**
+Check out my projects and assignments for:  
 
 ### 📋 **Freshdesk Personal Project**  
 - **Overview**: Developed and implemented a customized ticketing system using Freshdesk to streamline customer support and improve response times.  
@@ -142,8 +139,17 @@ Skills Used: Host discovery, Port scanning (TCP/UDP), Service and version enumer
 🔗 [View Assignment](https://drive.google.com/file/d/1AUw8wwtW7TpNVnO1fGODDT7kZs7QYHxf/view?usp=sharing)
 
 
+---
+Other tools learned:
+
+- 🪟 **Windows Quick Assistant — Triage & Troubleshooting**
+Overview: Fast-response toolkit for Windows troubleshooting: collects system info, event logs, network status, and performs quick remediation steps to speed incident resolution.
+Skills Used: System info and identification, Event Log analysis, Network troubleshooting, Process & service diagnosis, Security checks.
 
 
+- 🌐 **ServiceNow — ITSM & Workflow Automation**
+**Overview:** Utilized ServiceNow for IT service management, incident, problem, and change management. Automated workflows, managed tickets, and monitored system performance to improve IT operations.
+**Skills Used:** Incident & problem management, Workflow automation, Ticket tracking, Reporting & dashboards, CMDB management, Integration with IT systems.
 
 
 ---
