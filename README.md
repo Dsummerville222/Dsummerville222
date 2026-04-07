@@ -96,11 +96,6 @@ Hi there! I'm a tech newbie passionate about diving deeper into the world of tec
   - ![AD GIF](https://miro.medium.com/v2/resize:fit:1400/1*N_D7DT6sQ1PqBerAP0blHw.gif)
 
 
-
- - 🖥️ **Google Workspace**
-  - ![Google Workspace GIF](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFtvStrq7sRawBf3ZhaHZaVEAYGI6q1RlzgDo8KGH6Jq76-oVsWKl_gAdbOLCu6M0NFL7HKxW2eik5RK-rcNz6kunwEARjGAihA1w2HNUND8TFcyrwTu0ARf0q_NerZuPD1CFk3B4z70SQa-RXI257Dx5SvNsV0N6khmr7SafMVuLPOM5Xe_7gO3PX/s2000/1947-GDU-Google-Takeout-blogsize%20(1).gif)
-
-
 ---
 
 ## 🎨 **My GitHub Stats**
