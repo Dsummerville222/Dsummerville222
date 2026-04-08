@@ -31,10 +31,6 @@ Hi there! I'm a tech newbie passionate about diving deeper into the world of tec
   [View Certificate](https://drive.google.com/file/d/19WRX9Atj1QZbUZUqFtNuqOf9xDxh_hQr/view?usp=sharing)
 
 
-### Windows 10 for IT Support: Troubleshooting Advanced  
-- ![Windows 10 Certificate](https://img.shields.io/badge/Windows%2010%20IT%20Support-%23007ACC?logo=windows&logoColor=white)  
-  [View Certificate](https://drive.google.com/file/d/1pDfz1JF7HbgaeflRs53IWhFH5Xh__c-A/view?usp=sharing)
-
 
 ## 🛠️ **Technical Expertise**
 
