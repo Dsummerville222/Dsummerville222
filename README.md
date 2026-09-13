@@ -14,10 +14,6 @@ Hi there! I'm a tech newbie passionate about diving deeper into the world of tec
 
 ## 🏆 **Certificates**
 
-### National Cyber League  
-- ![NCL Certificate](https://img.shields.io/badge/National%20Cyber%20League-%23FF8C00?logo=nodered&logoColor=white)  
-  [View Certificate](https://drive.google.com/file/d/1ZdQt4xY0Zif0HzFzP0BmMnpueZ1EQypa/view?usp=drive_link)
-
 ### National Cybersecurity Training & Education (NYCTE) Career Challenge  
 - ![NYCTE Certificate](https://img.shields.io/badge/NYCTE%20Career%20Challenge-%233478E5?logo=education&logoColor=white)  
   [View Certificate](https://drive.google.com/file/d/1dreGM5Qg-x_lHsh0cqGNOwVhOYT8rXEA/view?usp=sharing)
@@ -67,8 +63,6 @@ Hi there! I'm a tech newbie passionate about diving deeper into the world of tec
   - 💻 **Web Development**:  
     - ![HTML](https://img.shields.io/badge/HTML-%23E34F26?logo=html5&logoColor=white)  
     - ![PHP](https://img.shields.io/badge/PHP-%23777BB4?logo=php&logoColor=white)  
-  - 🗂️ **Version Control**:  
-    - ![Git](https://img.shields.io/badge/Git-%23F05033?logo=git&logoColor=white)
 </details>
 
 <details>
@@ -119,20 +113,7 @@ Check out my projects and assignments for:
 - **Overview**: Fast-response toolkit for Windows troubleshooting: collects system info, event logs, network status, and performs quick remediation steps to speed incident resolution.
 - **Skills Used**: System info and identification, Event Log analysis, Network troubleshooting, Process & service diagnosis, Security checks.
 
-
  
----
-
-## 🏆 **Technical Competitions**
-
-### 🖥️ **Cybersecurity Challenges**  
-- ![National Cyber League](https://img.shields.io/badge/National%20Cyber%20League-%231D76DB?logo=cybersecurity&logoColor=white)  
-  - Participated in hands-on scenarios simulating real-world cybersecurity challenges.  
-  - Areas explored: Open-source intelligence, password cracking, network traffic analysis, and so much more.  
-
-- ![National Cybersecurity Training & Education Career Challenge](https://img.shields.io/badge/NYCTE%20Challenge-%23FF5733?logo=training&logoColor=white)  
-  - Focused on advancing skills in vulnerability analysis and threat management.  
-  - Collaborated with peers to solve high-stakes scenarios.  
 
 ---
 
