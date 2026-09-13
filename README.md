@@ -69,13 +69,6 @@ Hi there! I'm a tech newbie passionate about diving deeper into the world of tec
 </details>
  
 
----
-
-## 🛰️ **Currently Exploring**
-
-- 🖥️ **Active Directory**
-  - ![AD GIF](https://miro.medium.com/v2/resize:fit:1400/1*N_D7DT6sQ1PqBerAP0blHw.gif)
-
 
 ---
 
