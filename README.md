@@ -8,7 +8,7 @@
 ---
 
 ## 💻 **About Me**
-Hi there! I'm a tech newbie passionate about diving deeper into the world of technology and cybersecurity. With a growing skill set in tools like Wireshark, Hashcat, tech support, network security hardening, and other areas, I'm eager to expand my knowledge and expertise. I thrive on challenges and look forward to contributing with creative solutions while sharpening my abilities. This GitHub is my journey to learning, growing, and making a mark in the tech and security field!
+Hi there! I'm a tech newbie passionate about diving deeper into the world of technology. With a growing skill set in tools like Wireshark, Hashcat, tech support, network security hardening, and other areas, I'm eager to expand my knowledge and expertise. I thrive on challenges and look forward to contributing with creative solutions while sharpening my abilities. This GitHub is my journey to learning, growing, and making a mark in the tech and security field!
 
 ---
 
