@@ -40,18 +40,8 @@ Hi there! I'm a tech newbie passionate about diving deeper into the world of tec
   - ⚙️ **Network Security Hardening**
     - ![Installing & Configuring Extreme Networks Devices](https://img.shields.io/badge/Installing%20%26%20Configuring%20Extreme%20Networks-%234CAF50?logo=cisco&logoColor=white)  
     - ![Assembling Network Tech](https://img.shields.io/badge/Assembling%20Network%20Tech-%233572A5?logo=lan&logoColor=white)      
-  - 🔍 **Tools & Utilities**:  
-    - ![Suricata](https://img.shields.io/badge/Suricata-%23335?logo=suricata&logoColor=white)  
-    - ![Wireshark](https://img.shields.io/badge/Wireshark-%23006DAA?logo=wireshark&logoColor=white)  
-    - ![Zenmap](https://img.shields.io/badge/Zenmap-%23358?logo=nmap&logoColor=white)  
-    - ![Ophcrack](https://img.shields.io/badge/Ophcrack-%230064E0?logo=windows&logoColor=white)  
-    - ![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-%23000000?logo=linux&logoColor=white)  
-    - ![Hashcat](https://img.shields.io/badge/Hashcat-%23181818?logo=hashnode&logoColor=white)
 
  
-
-
-
 
 
 </details>
